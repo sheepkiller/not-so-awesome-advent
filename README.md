@@ -21,3 +21,6 @@ Please contribute :)
 
 ### python
 * [@jreinhardt's Python Advent Calendar](https://github.com/jreinhardt/advent.py)
+
+### F#
+* [F# Advent Calendar](https://sergeytihon.wordpress.com/2015/10/25/f-advent-calendar-in-english-2015/)
