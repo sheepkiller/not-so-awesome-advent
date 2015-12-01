@@ -12,4 +12,6 @@ Please contribute :)
 * [Perl Advent](http://perladvent.org/)
 * [Dancer Advent](http://advent.perldancer.org/) (Seems empty for 2015. See [here](https://github.com/PerlDancer/advent-calendar))
 ###.Net
-[Akka.NET Adventskalender](http://wkinkeldei.blogspot.de/) /!\ German
+* [Akka.NET Adventskalender](http://wkinkeldei.blogspot.de/) /!\ German
+### python
+* [@jreinhardt's Python Advent Calendar](https://github.com/jreinhardt/advent.py)
